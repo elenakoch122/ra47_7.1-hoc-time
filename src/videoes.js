@@ -1,7 +1,7 @@
 export const videoes = [
   {
     url: 'https://www.youtube.com/embed/rN6nlNC9WQA?rel=0&amp;controls=0&amp;showinfo=0',
-    date: '2017-07-31 13:24:00'
+    date: '2023-05-03 16:40:00'
   },
   {
     url: 'https://www.youtube.com/embed/dVkK36KOcqs?rel=0&amp;controls=0&amp;showinfo=0',
@@ -22,9 +22,5 @@ export const videoes = [
   {
     url: 'https://www.youtube.com/embed/TxbE79-1OSI?rel=0&amp;controls=0&amp;showinfo=0',
     date: '2017-12-02 05:24:00'
-  },
-  {
-    url: 'https://www.youtube.com/embed/TxbE79-1OSI?rel=0&amp;controls=0&amp;showinfo=0',
-    date: '2023-05-03 16:40:00'
   },
 ];
